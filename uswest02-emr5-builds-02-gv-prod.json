@@ -1,5 +1,4 @@
 # This is cloudformation template for EMR clusters
-
 AWSTemplateFormatVersion: "2010-09-09"
 Description: EMR Stack
 
